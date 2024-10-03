@@ -104,7 +104,7 @@ public class Pemilihan2Percobaan210 {
             System.out.println("Total bayar akhir = " + total_bayar);
                 
             }else {
-                System.out.println("Member tidak valid");
+                System.out.println("Member tidak valid ");
             }
             System.out.println("--------------------------------------");
      }
